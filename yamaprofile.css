@@ -594,6 +594,10 @@ body {
     color: white;
 }
 
+.ul-list {
+  margin: 0px;
+}
+
 .main {
     height: 1800px;
     /*background-color: #ff502f;*/
